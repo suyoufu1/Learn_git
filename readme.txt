@@ -3,3 +3,4 @@ Git is free software.
 Git learning 
 Git is a distributed version control system
 reating a new branch is quick.
+reating a new branch is quick AND simple.
